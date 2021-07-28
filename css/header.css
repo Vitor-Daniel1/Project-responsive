@@ -1,0 +1,42 @@
+header.header-content {
+    background-image: linear-gradient(to bottom, rgba(1, 1, 1, 0.7), rgba(1, 1, 1, 0.9)), url(/assets/images/computer.png);
+    opacity: black 0.5;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    width: 100%;
+}
+
+.header-content h1 {
+    margin-top: 200px;
+    color: var(--color-title);
+    text-align: left;
+    font-size: 5rem;
+    font-weight: normal;
+}
+
+.header-content h2 {
+    margin-top: 50px;
+    color: var(--color-title);
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.logo-and-arrow {
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2%;
+    margin-top: 200px;
+    padding-bottom: 50px;
+}
+
+#seta {
+    width: 60px;
+}
+
+#lorem-seta {
+    width: 150px;
+}

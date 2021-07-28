@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-title: #fafafa;
+    --color-nav: #1e88e5;
+    --color-button-text: var(--color-title);
+    --color-button-nav2: #0d47a1;
+    --color-button: #00a4ef;
+    --colorbase: #eeeeee;
+    --color-text: #929292;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma;
+}
